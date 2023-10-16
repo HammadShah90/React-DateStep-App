@@ -87,7 +87,7 @@ function App() {
           >
             <div>
               <div>
-                <p style={{ display: "flex" }}>
+                <p style={{ display: "flex", marginRight: 15}}>
                   <span className="count">{count}</span>
                   days from today is
                 </p>
